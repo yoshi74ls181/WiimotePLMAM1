@@ -1,0 +1,10 @@
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\bin\Release\WiimotePLMAM1.exe.config
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\bin\Release\WiimotePLMAM1.exe
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\bin\Release\WiimotePLMAM1.pdb
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\bin\Release\WiimotePLMAM1.xml
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.Form1.resources
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.Resources.resources
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.vbproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.exe
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.xml
+d:\documents\visual studio 2012\Projects\WiimotePLMAM1\WiimotePLMAM1\obj\Release\WiimotePLMAM1.pdb
